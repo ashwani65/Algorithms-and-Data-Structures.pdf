@@ -7,3 +7,5 @@ Best book of Algorithms and Data structure in C++
 2)https://www.docdroid.net/ZPfHmS5/data-structures-and-algorithms-narasimha-karumanchi.pdf#page=582
 
 3)http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf
+
+4)https://www.javatpoint.com/data-structure-tutorial
